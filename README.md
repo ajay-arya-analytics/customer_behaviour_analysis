@@ -1,7 +1,6 @@
 Consumer Shopping Behavior & Retail Analytics 🛒
 
-Project Overview
-This project analyzes transactional data from 3,900 purchases to uncover deep insights into customer spending patterns, product performance, and subscription behavior. By integrating Python for data engineering, SQL for business logic, and Power BI for visualization, this study provides actionable recommendations to optimize marketing strategies and increase customer lifetime value.
+Project Overview This project analyzes transactional data from 3,900 purchases to uncover deep insights into customer spending patterns, product performance, and subscription behavior. By integrating Python for data engineering, SQL for business logic, and Power BI for visualization, this study provides actionable recommendations to optimize marketing strategies and increase customer lifetime value.
 
 🛠 Tech Stack
 - Data Processing: Python (Pandas, NumPy)
@@ -43,4 +42,4 @@ Demographic Breakdown: Revenue distribution by Age Group and Location.
 - Loyalty Migration: Reward "Returning" customers with targeted incentives to move them into the "Loyal" segment.
 - Subscription Growth: Promote exclusive benefits for high-frequency shoppers (>5 purchases) who are not yet subscribers.
 - Shipping Optimization: Since Express shipping correlates with higher spend, offer "Free Express Shipping" thresholds to increase Average Order Value (AOV).
-Inventory Focus: Prioritize marketing for top-rated products identified in the SQL analysis to maintain high customer satisfaction.
+- Inventory Focus: Prioritize marketing for top-rated products identified in the SQL analysis to maintain high customer satisfaction.
