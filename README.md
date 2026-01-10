@@ -1,6 +1,6 @@
 Consumer Shopping Behavior & Retail Analytics 🛒
 
-Project Overview:
+Project_Overview:
 This project analyzes transactional data from 3,900 purchases to uncover deep insights into customer spending patterns, product performance, and subscription behavior. By integrating Python for data engineering, SQL for business logic, and Power BI for visualization, this study provides actionable recommendations to optimize marketing strategies and increase customer lifetime value.
 
 
