@@ -18,6 +18,7 @@ This project analyzes transactional data from 3,900 purchases to uncover deep in
 
 🚀 Workflow
 
+
 1. Data Cleaning & Engineering (Python)
 - Imputation: Filled missing review ratings using the median of their respective product categories.
 - Feature Engineering:
@@ -26,17 +27,20 @@ This project analyzes transactional data from 3,900 purchases to uncover deep in
 - Normalization: Standardized column names to snake_case and dropped redundant columns (e.g., promo_code_used).
 - Pipeline: Connected the Python environment to MySQL to export the cleaned dataset for analysis.
 
+
 2. Business Analysis (SQL)
 Using a relational database, I performed structured queries to solve 6 critical business questions:
 - Revenue Drivers: Compared revenue across Gender, Age Groups, and Subscription status.
 - Customer Segmentation: Classified users into New, Returning, and Loyal segments based on historical purchase counts.
 - Promotional Impact: Analyzed "Discount-Dependent" products and high-spending discount users.
 
+
 3. Interactive Dashboard (Power BI)
 I built a dynamic dashboard to visualize the findings, focusing on:
 - KPI Cards: Total Revenue, Average Rating, and Total Customers.
 - Trend Analysis: Seasonal spending patterns and shipping preference comparisons.
 - Demographic Breakdown: Revenue distribution by Age Group and Location.
+
 
 💡 Strategic Recommendations
 
